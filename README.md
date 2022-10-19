@@ -7,3 +7,4 @@ you can leave a note for each hour in this time frame. If a section is greyed ou
 
 
 # Link to deployed application 
+<link href="https://connorg24.github.io/work-scheduler/">
